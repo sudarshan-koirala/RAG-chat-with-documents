@@ -1,0 +1,10 @@
+langchain
+langchain-community
+llama-parse 
+fastembed
+qdrant_client
+python-dotenv
+langchain-groq
+chainlit
+fastembed
+unstructured[md]
