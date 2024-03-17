@@ -5,6 +5,7 @@ Chainlit app for advanced RAG. Uses llamaparse, langchain, qdrant and models fro
 ## Videos covering these topics
 ### [Llamaparse LlamaIndex](https://youtu.be/wRMnHbiz5ck?si=iQZV7N6-trcuBm8M)
 ### [Llamaparse Qdrant Gorq](https://youtu.be/w7Ap6gZFXl0?si=05AUGmRp1quTdeZl)
+### [RAG With LlamaParse from LlamaIndex & LangChain 🚀](https://youtu.be/f9hvrqVvZl0?si=qnJBsAZD4hBUweiS)
 
 ### Links shown in video
 - [LlamaCloud](https://cloud.llamaindex.ai/)
